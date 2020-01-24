@@ -1,0 +1,50 @@
+body {
+  font-family: 'Cabin', sans-serif;
+  font-family: 'Lobster', cursive;
+}
+
+h6 {
+  font-family: 'Cabin', sans-serif;
+}
+
+h5 {
+  font-family: 'Cabin', sans-serif;
+}
+
+h4 {
+  font-family: 'Cabin', sans-serif;
+}
+
+h2 {
+  font-family: 'Cabin', sans-serif;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+}
+
+hr.linea {
+  height: 1px;
+  background: black;
+}
+
+
+
+.carousel-indicators {
+  top: 180px;
+}
+
+.carousel-indicators li {
+  background-color: black;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.rojo {
+  background-color: #DC3545;
+}
+
+p {
+  font-family: 'Cabin', sans-serif;
+}
